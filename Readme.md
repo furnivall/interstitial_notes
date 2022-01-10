@@ -18,7 +18,7 @@ To make this script easy to run, type the following in your terminal:
 ```alias is ='python3 <script location> ```
 
 
-###Usage instructions
+### Usage instructions
 
 From there, you can use the following command line args - 
 ```is note "your note here"```
